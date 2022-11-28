@@ -14,7 +14,22 @@
     "valid-url": "^1.0.9"
   },
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
-  }
+    "start": "nodemon index.js"
+  },
+  "name": "backend_deploye_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saif-herry/Backend_Deploye_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saif-herry/Backend_Deploye_api/issues"
+  },
+  "homepage": "https://github.com/Saif-herry/Backend_Deploye_api#readme",
+  "description": ""
 }
